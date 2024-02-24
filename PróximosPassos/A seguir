@@ -1,0 +1,13 @@
+Próximos passos para estudar JavaScript:
+1- HTML e CSS
+2- Funções
+3- Objetos
+4- Modularização
+5- RegEx
+6- JSON
+7- AJAX
+8- NodeJS
+
+Introdução a objetos (bônus)
+-Para declarar um objeto é só utilizar chaves: var amigo = {nome:'Pedro', sexo:'M',peso:85.4,engordar(p){}}
+diferente do array, nos objetos é possível dar nomes ao índice, como nome, sexo, peso ou até mesmo a função engordar()
